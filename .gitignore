@@ -1,0 +1,11 @@
+/target/
+/bin/
+/*.bak
+/*.settings/
+/test-output/
+/result/
+result/logs/*.logs
+result/screenshots/
+result/test-output/
+/images/
+/.classpath
